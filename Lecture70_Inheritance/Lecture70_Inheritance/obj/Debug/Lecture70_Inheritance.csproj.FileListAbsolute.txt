@@ -1,0 +1,15 @@
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\bin\Debug\Lecture70_Inheritance.exe.config
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\bin\Debug\Lecture70_Inheritance.exe
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\bin\Debug\Lecture70_Inheritance.pdb
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.csprojAssemblyReference.cache
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\MainWindow.g.cs
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\App.g.cs
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance_MarkupCompile.cache
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance_MarkupCompile.lref
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\MainWindow.baml
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.g.resources
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.Properties.Resources.resources
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.csproj.GenerateResource.cache
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.exe
+C:\Users\Wirunchana\source\repos\Lecture70_Inheritance\Lecture70_Inheritance\obj\Debug\Lecture70_Inheritance.pdb
